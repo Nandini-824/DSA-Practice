@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Nandini-824/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0058-length-of-last-word](https://github.com/Nandini-824/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nandini-824/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Tree
 |  |
