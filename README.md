@@ -44,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-824/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
