@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Nandini-824/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0099-recover-binary-search-tree](https://github.com/Nandini-824/DSA-Practice/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Nandini-824/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
