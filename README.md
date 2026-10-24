@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nandini-824/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Nandini-824/DSA-Practice/tree/master/0066-plus-one) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Nandini-824/DSA-Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nandini-824/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Nandini-824/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
 ## Memoization
