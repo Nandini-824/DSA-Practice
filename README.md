@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nandini-824/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Nandini-824/DSA-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Nandini-824/DSA-Practice/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nandini-824/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Nandini-824/DSA-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Nandini-824/DSA-Practice/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nandini-824/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Nandini-824/DSA-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Nandini-824/DSA-Practice/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nandini-824/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
