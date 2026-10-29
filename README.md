@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-824/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nandini-824/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Nandini-824/DSA-Practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
