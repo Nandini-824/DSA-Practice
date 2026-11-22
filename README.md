@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Nandini-824/DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/Nandini-824/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Nandini-824/DSA-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/Nandini-824/DSA-Practice/tree/master/0392-is-subsequence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nandini-824/DSA-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Tree
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-824/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0392-is-subsequence](https://github.com/Nandini-824/DSA-Practice/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Nandini-824/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Nandini-824/DSA-Practice/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
