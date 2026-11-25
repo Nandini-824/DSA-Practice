@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Nandini-824/DSA-Practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nandini-824/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-824/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Nandini-824/DSA-Practice/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-824/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/Nandini-824/DSA-Practice/tree/master/0392-is-subsequence) |
