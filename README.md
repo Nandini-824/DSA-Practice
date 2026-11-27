@@ -64,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nandini-824/DSA-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nandini-824/DSA-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nandini-824/DSA-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nandini-824/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Nandini-824/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Nandini-824/DSA-Practice/tree/master/0392-is-subsequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nandini-824/DSA-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
