@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandini-824/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/Nandini-824/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nandini-824/DSA-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nandini-824/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/Nandini-824/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nandini-824/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
